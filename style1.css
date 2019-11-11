@@ -1,0 +1,118 @@
+
+p {
+	line-height: 1.5;
+	font-family: 'Montserrat', sans-serif;	
+}
+h2{
+	color:#66BFBF;
+	font-family: 'Montserrat', sans-serif;
+}
+a{
+	color: #11999E;
+	margin: 20px 20px;
+	text-decoration: none;
+	font-family: 'Montserrat', sans-serif;
+}
+
+
+a:hover{
+
+	color:#EAF6F6;
+}
+h3{
+	color:#11999E;
+	font-family: 'Montserrat', sans-serif;
+}
+
+body{
+	text-align: center;
+	margin:0px;
+	color:#40514E;
+
+
+}
+h1{
+	font-family: 'Sacramento', cursive;
+	
+	font-size: 50px;
+	margin: 50px 0 auto 0;
+	line-height: 2;
+	color: #66BFBF;
+}
+.btn{
+	color:#11999E;
+}
+
+.hr{
+	border: dotted 6px;
+	border-color: #c9d1d3;
+	border-bottom: none;
+	width:4%;
+	margin: 100px auto;
+}
+.top-container{
+
+	padding-top: 70px;
+}
+.contact-msg{
+	padding-bottom: 20px;
+}
+
+.second-cloud{
+	position: absolute;
+	bottom:250px;
+	left:100px;
+}
+.first-cloud{
+	
+	padding-left:600px;
+}
+.sandeep-image{
+	width: 25%;
+	border-radius: 50%;
+	margin-top: 40px;
+	
+}
+.middle-container{
+	padding-top: 30px;
+	
+}
+.skill-row{
+	width: 50%;
+	margin:100px auto 100px auto;
+	text-align: left;
+}
+.skills-img{
+	width:25%;
+	float: left;
+	margin-right: 30px; 
+	
+}
+
+.chillies-img{
+	float: right;
+	margin-left: 30px;
+		
+}
+
+.bottom-container{
+	
+	background-color: #66bfbf;
+	padding: 50px 0 20px;
+	margin-top: 30px;
+}
+
+
+.skill-1-heading{
+	padding-top: 20px;
+}
+
+.intro{
+	width:30%;
+	margin:auto;
+
+}
+.top-container{
+	background-color: #e6f8f9;
+}
+
